@@ -1,6 +1,10 @@
 # Hospital-management-System 🏥🩺
 
 
+<p align="center">
+<img src="https://freesvg.org/img/Hospital.png" height="300">
+</p>
+
 # A Comprehensive Hospital Management System
 
 * In today's fast-paced healthcare environment, efficient management is crucial for delivering quality patient care. 
